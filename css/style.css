@@ -1,3 +1,6 @@
+* {
+  margin: 0;
+}
 h1 {
   color: blue;
 }
@@ -8,4 +11,8 @@ p {
 
 #telefono {
   background-color: brown;
+}
+img {
+  margin: 15px 100px 15px;
+  width: 300px;
 }
